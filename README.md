@@ -16,9 +16,8 @@ The Stopwatch Web Application allows users to start, pause, and reset time. It a
 - CSS
 - JavaScript
 
-## 🔗 Live Demo
+# Live Demo
 https://jessywesneena.github.io/PRODIGY_WD_02/
 
-## 📷 Output Screenshot
-![Stopwatch Output](screenshots/output.png)
+
 
